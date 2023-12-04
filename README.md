@@ -2,7 +2,7 @@
 
 This is a project I completed as part of an 8 week Introduction to Data and SQL with Code First Girls. I completed the course as Project Winner and as a Highly Commended Candidate.
 
-The project was completed on MySQL, in which I created and queried a database. As an avid board gamer, I chose to create a database that could be used in a board game shop. 
+The project was completed in MySQL, in which I created and queried a database. As an avid board gamer, I chose to create a database that could be used in a board game shop. 
 
 The core project requirements were:
 - create a relational DB of your choice with a minimum of 5 tables
